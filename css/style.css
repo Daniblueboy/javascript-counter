@@ -65,3 +65,16 @@ button:active{
 button:hover{
     cursor: pointer;
 }
+.fab {
+    color: #fff;
+    font-size: 1rem;
+    padding-top: 15px;
+    color: rgb(10, 10, 82);
+}
+.fab:hover{
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+a{
+    text-decoration: none;
+}
